@@ -1,6 +1,6 @@
 # ODSC West 2023 [Visualization in Bayesian Workflow](https://odsc.com/speakers/visualization-in-bayesian-workflow-using-python-or-r/) Tutorial
 
-This repository contains the [Colab notebooks](https://github.com/cbrownley/2023ODSCWest) (`R` code), [data files](https://github.com/cbrownley/2023ODSCWest/tree/main/data), and [slides](https://docs.google.com/presentation/d/1TICLmVEB2S7B6EHtV11ZQIB1rP5lFslSv0OWBwKM0Ks/edit?usp=sharing) associated with the [Visualization in Bayesian Workflow](https://odsc.com/speakers/visualization-in-bayesian-workflow-using-python-or-r/) tutorial.
+This repository contains the [Colab notebooks](https://github.com/cbrownley/2023ODSCWest) (`Python` and `R` code), [data files](https://github.com/cbrownley/2023ODSCWest/tree/main/data), and [slides](https://docs.google.com/presentation/d/1TICLmVEB2S7B6EHtV11ZQIB1rP5lFslSv0OWBwKM0Ks/edit?usp=sharing) associated with the [Visualization in Bayesian Workflow](https://odsc.com/speakers/visualization-in-bayesian-workflow-using-python-or-r/) tutorial.
 
 ## to open notebooks in Google Colab
 
